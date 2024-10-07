@@ -10,7 +10,7 @@ O projeto de Lista de Tarefas tem como objetivo gerenciar tarefas e o usuário p
 
 É recomendado que crie um usuário na area Criar Conta. Caso queira utilizar um usuário de demonstração basta acessar com os dados abaixo:
 
-Email: teste@teste.com
+Email: teste@teste.com <br>
 Senha: 123456
 
 ## Instalação
@@ -20,8 +20,8 @@ Para instalar o projeto, você precisa ter o [Yarn](https://yarnpkg.com/) e o [N
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_projeto.git
-   cd nome_do_projeto
+   git clone https://github.com/dawanlago/lista-tarefas.git
+   cd lista-tarefas
    ```
 
 2. Instale as dependências usando o Yarn:
