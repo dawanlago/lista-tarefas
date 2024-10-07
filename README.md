@@ -1,6 +1,17 @@
 # Nome do Projeto
 
-Descrição breve do projeto e seu objetivo.
+O projeto de Lista de Tarefas tem como objetivo gerenciar tarefas e o usuário pode ver apenas as suas tarefas
+
+## Acesso ao projeto
+
+[Acessar projeto](https://lista-tarefas-db583.web.app/)
+
+## Recomendação de uso
+
+É recomendado que crie um usuário na area Criar Conta. Caso queira utilizar um usuário de demonstração basta acessar com os dados abaixo:
+
+Email: teste@teste.com
+Senha: 123456
 
 ## Instalação
 
