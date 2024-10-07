@@ -1,6 +1,6 @@
-# Nome do Projeto
+# Lista de tarefas
 
-O projeto de Lista de Tarefas tem como objetivo gerenciar tarefas e o usuário pode ver apenas as suas tarefas
+O projeto de Lista de Tarefas tem como objetivo gerenciar tarefas e o usuário pode ver apenas as suas tarefas.
 
 ## Acesso ao projeto
 
